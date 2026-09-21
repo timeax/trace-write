@@ -1,0 +1,13 @@
+{
+   "name": "@timeax/trace-write",
+   "version": "0.1.0",
+   "description": "Extract source files from indexed trace bundles",
+   "type": "module",
+   "bin": {
+      "trace-write": "./bin/trace-write.js"
+   },
+   "engines": {
+      "node": ">=20"
+   },
+   "license": "MIT"
+}
